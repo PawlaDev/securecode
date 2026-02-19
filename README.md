@@ -1,5 +1,7 @@
 # securecode README
 
+[**Link**](https://marketplace.visualstudio.com/items?itemName=PawlaDev.securecode)
+
 **Escanea tu código en busca de vulnerabilidades OWASP Top 10 directamente desde VSCode.**
 
 ---
